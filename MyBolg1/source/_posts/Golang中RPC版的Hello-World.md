@@ -2,7 +2,7 @@
 title: Golang中RPC版的Hello World
 date: 2020-10-09 08:35:47
 tags: [glang]
-categories: glang
+categories: golang
 index_img: /img/RPC.jpg
 banner_img: /img/RPC.jpg
 ---
