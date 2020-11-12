@@ -423,4 +423,10 @@ links:
       link: 'https://ccctop.cn/',
       image: '/img/OYSL.jpg'
     }
+    - {
+      title: "LiangSir",
+      intro: 'JAVA憨憨',
+      link: 'https://liangyy.cn/',
+      image: 'https://liangyy.cn/images/lufei.jpg'
+    }
     
