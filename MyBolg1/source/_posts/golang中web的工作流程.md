@@ -1,10 +1,12 @@
 ---
 title: golang中web的工作流程
-date: 2020-11-09 15:23:11
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/webliuc.jpg
 banner_img: /img/webliuc.jpg
+abbrlink: 40086
+date: 2020-11-09 15:23:11
 ---
 
 # golang中web的工作流程

@@ -1,10 +1,11 @@
 ---
 title: Docker中多层架构的镜像
-date: 2020-10-13 14:19:05
 tags: docker
 categories: docker
 index_img: /img/dockerASD.jpg
 banner_img: /img/dockerASD.jpg
+abbrlink: 9901
+date: 2020-10-13 14:19:05
 ---
 
 # Docker中多层架构的镜像

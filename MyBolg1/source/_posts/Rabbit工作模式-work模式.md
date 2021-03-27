@@ -1,10 +1,13 @@
 ---
 title: Rabbit工作模式--work模式
-date: 2020-10-19 09:39:55
-tags: [RabbitMQ,队列，高并发]
+tags:
+  - RabbitMQ
+  - 队列，高并发
 categories: RabbitMQ
 index_img: /img/work.jpg
 banner_img: /img/work.jpg
+abbrlink: 45015
+date: 2020-10-19 09:39:55
 ---
 
 # Rabbit工作模式--work模式

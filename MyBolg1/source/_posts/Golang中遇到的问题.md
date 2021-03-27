@@ -1,10 +1,12 @@
 ---
 title: Golang中遇到的问题
-date: 2020-09-28 10:18:45
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/golangcuowu.jpg
 banner_img: /img/golangcuowu.jpg
+abbrlink: 35893
+date: 2020-09-28 10:18:45
 ---
 
 # Golang中常见的问题(持续更新)

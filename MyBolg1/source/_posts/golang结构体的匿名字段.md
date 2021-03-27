@@ -1,10 +1,13 @@
 ---
 title: golang结构体的匿名字段
-date: 2020-10-03 11:05:54
-tags: [golang, 基础]
+tags:
+  - golang
+  - 基础
 categories: golang
 index_img: /img/jiegouti.jpg
 banner_img: /img/jiegouti.jpg
+abbrlink: 46987
+date: 2020-10-03 11:05:54
 ---
 
 # 结构体中的匿名字段

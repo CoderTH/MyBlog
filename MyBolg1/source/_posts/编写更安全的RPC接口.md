@@ -1,10 +1,11 @@
 ---
 title: 编写更安全的RPC接口
-date: 2020-10-11 14:11:05
 tags: golang
 categories: golang
 index_img: /img/rpcanquan.jpg
 banner_img: /img/rpcanquan.jpg
+abbrlink: 59926
+date: 2020-10-11 14:11:05
 ---
 
 

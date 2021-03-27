@@ -1,10 +1,13 @@
 ---
 title: RabbitMQ工作模式---Simple模式
-date: 2020-10-17 15:04:58
-tags: [RabbitMQ,队列，高并发]
+tags:
+  - RabbitMQ
+  - 队列，高并发
 categories: RabbitMQ
 index_img: /img/RabbitMQSimple.jpg
 banner_img: /img/RabbitMQSimple.jpg
+abbrlink: 23073
+date: 2020-10-17 15:04:58
 ---
 
 # RabbitMQ工作模式---Simple模式

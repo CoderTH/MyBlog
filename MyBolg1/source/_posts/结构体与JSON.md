@@ -1,10 +1,13 @@
 ---
 title: 结构体与JSON
-date: 2020-10-03 12:05:04
-tags: [golang, 基础]
+tags:
+  - golang
+  - 基础
 categories: golang
 index_img: /img/jiegoutiyujson.jpg
 banner_img: /img/jiegoutiyujson.jpg
+abbrlink: 36966
+date: 2020-10-03 12:05:04
 ---
 
 # golang中结构体与json

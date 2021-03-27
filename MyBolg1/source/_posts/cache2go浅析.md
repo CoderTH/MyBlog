@@ -1,10 +1,12 @@
 ---
 title: cache2go浅析
-date: 2020-11-11 14:49:10
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/cachago2.jpg
 banner_img: /img/cachago2.jpg
+abbrlink: 35597
+date: 2020-11-11 14:49:10
 ---
 
 # cache2go浅析

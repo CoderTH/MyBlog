@@ -1,10 +1,12 @@
 ---
 title: go mod使用方法
-date: 2020-11-20 09:22:49
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/gomodel.jpg
 banner_img: /img/gomodel.jpg
+abbrlink: 3630
+date: 2020-11-20 09:22:49
 ---
 
 # go mod简单使用方法

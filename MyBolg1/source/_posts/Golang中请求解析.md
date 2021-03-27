@@ -1,10 +1,12 @@
 ---
 title: Golang中请求解析
-date: 2020-11-10 10:59:26
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/request.jpg
 banner_img: /img/request.jpg
+abbrlink: 34346
+date: 2020-11-10 10:59:26
 ---
 
 # Golang中请求解析

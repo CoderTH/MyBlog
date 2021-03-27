@@ -1,10 +1,12 @@
 ---
 title: Hash算法的简介与使用
-date: 2020-12-07 14:55:51
-tags: [算法]
+tags:
+  - 算法
 categories: 算法
 index_img: /img/hashsuanfa.jpg
 banner_img: /img/hashsuanfa.jpg
+abbrlink: 11700
+date: 2020-12-07 14:55:51
 ---
 
 # Hash算法的简介与使用

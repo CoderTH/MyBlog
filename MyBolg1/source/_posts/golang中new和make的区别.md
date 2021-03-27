@@ -1,10 +1,11 @@
 ---
 title: golang中new和make的区别
-date: 2020-09-19 16:52:32
 tags: golang
 categories: golang
 index_img: /img/golang中new和make.jpg
 banner_img: /img/golang中new和make.jpg
+abbrlink: 55439
+date: 2020-09-19 16:52:32
 ---
 
 # golang中new和make的区别

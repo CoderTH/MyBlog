@@ -1,10 +1,11 @@
 ---
 title: 跨语言的RPC
-date: 2020-10-12 09:00:39
 tags: golang
 categories: golang
 index_img: /img/kuayuyan.jpg
 banner_img: /img/kuayuyan.jpg
+abbrlink: 22169
+date: 2020-10-12 09:00:39
 ---
 
 # 跨语言的RPC

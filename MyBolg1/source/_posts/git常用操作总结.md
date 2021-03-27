@@ -1,10 +1,13 @@
 ---
 title: git常用操作总结
-date: 2020-10-10 16:08:42
-tags: [git, 基础]
+tags:
+  - git
+  - 基础
 categories: git
 index_img: /img/git.jpg
 banner_img: /img/git.jpg
+abbrlink: 38361
+date: 2020-10-10 16:08:42
 ---
 
 # git常用操作总结

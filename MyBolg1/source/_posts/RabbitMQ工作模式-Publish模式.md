@@ -1,10 +1,13 @@
 ---
 title: RabbitMQ工作模式--Publish模式
-date: 2020-10-21 08:25:40
-tags: [RabbitMQ,队列，高并发]
+tags:
+  - RabbitMQ
+  - 队列，高并发
 categories: RabbitMQ
 index_img: /img/publish.jpg
 banner_img: /img/publish.jpg
+abbrlink: 27978
+date: 2020-10-21 08:25:40
 ---
 
 # RabbitMQ工作模式--Publish模式

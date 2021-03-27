@@ -1,10 +1,13 @@
 ---
 title: 链表实现LRU缓存淘汰算法
-date: 2020-10-03 14:04:08
-tags: [golang, 算法]
+tags:
+  - golang
+  - 算法
 categories: 算法
 index_img: /img/LRUshixian.jpg
 banner_img: /img/LRUshixian.jpg
+abbrlink: 48654
+date: 2020-10-03 14:04:08
 ---
 
 # 链表实现LRU缓存淘汰算法

@@ -1,10 +1,12 @@
 ---
 title: golang中slice的扩容原理
-date: 2020-09-19 17:05:15
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/golangzhong.jpg
 banner_img: /img/golangzhong.jpg
+abbrlink: 65081
+date: 2020-09-19 17:05:15
 ---
 
 # golang中slice的扩容

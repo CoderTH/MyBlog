@@ -1,10 +1,12 @@
 ---
 title: 使用defer解决实际问题
-date: 2020-12-03 16:11:46
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/defer.jpg
 banner_img: /img/defer.jpg
+abbrlink: 17075
+date: 2020-12-03 16:11:46
 ---
 
 # 使用defer解决实际问题

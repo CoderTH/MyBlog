@@ -1,10 +1,12 @@
 ---
 title: 'golang中函数,方法和接口的浅析（函数篇）'
-date: 2020-09-28 10:58:18
-tags: [golang]
+tags:
+  - golang
 categories: golang
 index_img: /img/qianxi.jpg
 banner_img: /img/qianxi.jpg
+abbrlink: 13613
+date: 2020-09-28 10:58:18
 ---
 
 # golang中函数，方法和接口的浅析（函数篇）
